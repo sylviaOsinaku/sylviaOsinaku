@@ -10,13 +10,6 @@ I'm a frontend developer with  experience in building beautiful and responsive w
 - React
 
 
-## Backend Technologies
-
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-
 ## Other Skills
 
 - Git (GitHub, Bitbucket)
